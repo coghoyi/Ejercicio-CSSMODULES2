@@ -1,0 +1,20 @@
+
+.card {
+    width: 350px;
+    height: 250px;
+    border-top: 1px solid ;
+}
+.h2 {
+    font-size: 20px;
+    padding-top: 1rem;
+    padding-left: 1rem;
+}
+.p {
+    font-size: 13px;
+    padding-left: 1rem;
+}
+.img {
+    padding-left: 12rem;
+    padding-top: 1rem;
+    width: 100px;
+}
