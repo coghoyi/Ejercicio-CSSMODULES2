@@ -23,7 +23,7 @@ export const CARDS = [
 		text2:'Regularly evaluates our talent to ensure quality',
 		src:'/public/images/icon-karma.svg',
 		alt:'imagen1',
-        color:'blue'
+        color:'amarillo'
     },
     {
         id: v4(),
@@ -31,6 +31,6 @@ export const CARDS = [
 		text2:'Uses data from past projects to provide better delivery estimates',
 		src:'/public/images/icon-calculator.svg',
 		alt:'imagen1',
-        color:'blue'
+        color:'darkblue'
     },
 ]

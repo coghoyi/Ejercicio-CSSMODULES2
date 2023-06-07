@@ -1,8 +1,31 @@
 
 .card {
-    width: 350px;
+    width: 330px;
     height: 250px;
+    margin: auto;
     border-top: 1px solid ;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+.red {
+    -webkit-box-shadow: 3px 3px 23px 0px rgba(234, 84, 84, 1);
+    -moz-box-shadow: 3px 3px 23px 0px rgba(234, 84, 84, 1);
+    box-shadow: 3px 3px 23px 0px rgba(234, 84, 84, 1);
+}
+.blue {
+    -webkit-box-shadow: 3px 3px 23px 0px rgba(68, 211, 210, 1);
+    -moz-box-shadow: 3px 3px 23px 0px rgba(68, 211, 210, 1);
+    box-shadow: 3px 3px 23px 0px rgba(68, 211, 210, 1);
+}
+.amarillo {
+    -webkit-box-shadow: 3px 3px 23px 0px rgba(252, 174, 74, 1);
+    -moz-box-shadow: 3px 3px 23px 0px rgba(252, 174, 74, 1);
+    box-shadow: 3px 3px 23px 0px rgba(252, 174, 74, 1);
+}
+.darkblue {
+    -webkit-box-shadow: 3px 3px 23px 0px rgba(84, 158, 242, 1);
+    -moz-box-shadow: 3px 3px 23px 0px rgba(84, 158, 242, 1);
+    box-shadow: 3px 3px 23px 0px rgba(84, 158, 242, 1);
 }
 .h2 {
     font-size: 20px;
