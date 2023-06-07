@@ -20,6 +20,7 @@ const App = () => {
 		color={cards.color}
 		text1={cards.text1}
 		text2={cards.text2}
+		position={cards.position}
 		/>
 		))}
 		</div>
